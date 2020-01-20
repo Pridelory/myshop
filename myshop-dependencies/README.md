@@ -1,1 +1,1 @@
-
+github上只上传代码 不上传配置文件 要做到与配置无关 所以要配置 .gitattributes .gitignore
