@@ -3,7 +3,7 @@ package com.funtl.myshop.commons.domain;
 import java.util.Date;
 import javax.persistence.*;
 
-@Table(name = "myshop..tb_user")
+@Table(name = "tb_user")
 public class TbUser {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

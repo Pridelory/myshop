@@ -2,7 +2,7 @@ package com.funtl.myshop.commons.domain;
 
 import javax.persistence.*;
 
-@Table(name = "myshop..tb_order_item")
+@Table(name = "tb_order_item")
 public class TbOrderItem {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

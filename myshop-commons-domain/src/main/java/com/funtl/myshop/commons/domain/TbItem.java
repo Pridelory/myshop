@@ -3,7 +3,7 @@ package com.funtl.myshop.commons.domain;
 import javax.persistence.*;
 import java.util.Date;
 
-@Table(name = "myshop..tb_item")
+@Table(name = "tb_item")
 public class TbItem {
     /**
      * 商品id，同时也是商品编号

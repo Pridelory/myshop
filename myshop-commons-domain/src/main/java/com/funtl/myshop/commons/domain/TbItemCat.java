@@ -3,7 +3,7 @@ package com.funtl.myshop.commons.domain;
 import javax.persistence.*;
 import java.util.Date;
 
-@Table(name = "myshop..tb_item_cat")
+@Table(name = "tb_item_cat")
 public class TbItemCat {
     /**
      * 类目ID

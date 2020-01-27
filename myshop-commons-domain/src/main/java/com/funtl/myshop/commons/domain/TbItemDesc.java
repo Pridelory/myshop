@@ -5,7 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.util.Date;
 
-@Table(name = "myshop..tb_item_desc")
+@Table(name = "tb_item_desc")
 public class TbItemDesc {
     /**
      * 商品ID
